@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.pinkDot{
+  color: rgb(255, 0, 170);
+}
